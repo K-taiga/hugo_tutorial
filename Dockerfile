@@ -21,7 +21,7 @@ WORKDIR /usr/share/blog
 EXPOSE 1313
 
 # Automatically build site
-ONBUILD ADD site/ /usr/share/blog
+ONBUILD ADD site/first_site/ /usr/share/blog
 ONBUILD RUN hugo -d /usr/share/nginx/html/
 
 # By default, serve site

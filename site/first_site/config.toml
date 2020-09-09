@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "HUGO | Giraffe Academy"
+theme = "ga-hugo-theme"
