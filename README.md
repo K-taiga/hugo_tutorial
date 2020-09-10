@@ -8,4 +8,4 @@ https://www.mikedane.com/static-site-generators/hugo/
 
 https://github.com/giraffeacademy/ga-hugo-theme
 
-![theme](https://github.com/K-taiga/hugo_tutorial/blob/master/doc/them.png)
+![theme](https://github.com/K-taiga/hugo_tutorial/blob/master/doc/theme.png)
