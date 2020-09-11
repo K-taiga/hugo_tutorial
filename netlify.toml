@@ -1,5 +1,5 @@
 [build]
-publish = "public"
+publish = "./site/first_site/public"
 command = "hugo -c site/ --theme=ga-hugo-theme --buildDrafts --gc --minify"
 
 [context.production.environment]
