@@ -6,6 +6,8 @@ author: "Mike"
 language: "English"
 tags: ["tag1", "tag2", "tag3"]
 categories: ["cat1"]
+myVar: "myValue"
+color: "blue"
 ---
 
 {{< youtube cUHAY6WRhwo >}}

@@ -1,2 +1,14 @@
-{{ define "main" }} This is the single template {{end}} {{ define "footer" }}
-This is the singl footer {{end}}
+{{ define "main" }} This is the single template 
+
+<!-- {{ .Params.myVar }} -->
+
+{{ $myVarName := "aString" }}
+<h1>{{ $myVarName }}</h1>
+
+<!-- <h1 style="color:{{ .Params.color }}">Single Template</h1> -->
+
+{{end}} 
+
+{{ define "footer" }}
+This is the singl footer 
+{{end}}
