@@ -42,11 +42,13 @@ False
 
 {{end}} -->
 
-{{ range .Site.Data.states }}
+<!-- {{ range .Site.Data.states }}
 
   {{.name}}<br>{{.capital}}<br>
   Location : {{.lat}}, {{.long}}
-{{end}}
+{{end}} -->
+
+{{ partial "header" (dict "myTitle" "myCustomTitle" "myDate" "myCustomDate") }}
 
 {{ define "footer" }}
 This is the singl footer 
