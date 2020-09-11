@@ -1,0 +1,15 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Document</title>
+  </head>
+  <body>
+    Top of baseof
+    <hr />
+    {{ block "main" . }} {{end}}
+    <br />
+    {{ block "footer" .}} This is the default baseof footer {{end}}
+    <hr />
+    Bottom of baseof
+  </body>
+</html>
