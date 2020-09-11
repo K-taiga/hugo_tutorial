@@ -2,10 +2,18 @@
 
 <!-- {{ .Params.myVar }} -->
 
-{{ $myVarName := "aString" }}
-<h1>{{ $myVarName }}</h1>
+<!-- {{ $myVarName := "aString" }}
+<h1>{{ $myVarName }}</h1> -->
 
 <!-- <h1 style="color:{{ .Params.color }}">Single Template</h1> -->
+
+{{ truncate 15 "This is a really long string" }}
+
+{{ add 1 5 }}
+
+{{ sub 1 5 }}
+
+{{ singularize "dogs" }}
 
 {{end}} 
 
