@@ -7,13 +7,38 @@
 
 <!-- <h1 style="color:{{ .Params.color }}">Single Template</h1> -->
 
-{{ truncate 15 "This is a really long string" }}
+<!-- {{ truncate 15 "This is a really long string" }}
 
 {{ add 1 5 }}
 
 {{ sub 1 5 }}
 
-{{ singularize "dogs" }}
+{{ singularize "dogs" }} -->
+
+<!-- {{ $var1 := "dog" }}
+{{ $var2 := "cat" }} -->
+
+<!-- eq
+lt
+le
+gt 
+ge
+not -->
+<!-- {{ if not (eq $var1 $var2) }}
+True
+{{else}}
+False
+{{end}} -->
+
+{{ $var1 := "1" }}
+{{ $var2 := "2" }}
+{{ $var3 := "3" }}
+
+{{ if and (lt $var1 $var2) (lt $var1 $var3)}}
+True
+{{else}}
+False
+{{end}}
 
 {{end}} 
 
