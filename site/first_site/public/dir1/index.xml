@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dir1 on HUGO | Giraffe Academy</title>
+    <link>http://example.org/dir1/</link>
+    <description>Recent content in Dir1 on HUGO | Giraffe Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Sep 2020 00:44:44 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/dir1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>G</title>
+      <link>http://example.org/dir1/g/</link>
+      <pubDate>Thu, 10 Sep 2020 09:50:14 +0000</pubDate>
+      
+      <guid>http://example.org/dir1/g/</guid>
+      <description>aaaaaaaaaa</description>
+    </item>
+    
+    <item>
+      <title>C</title>
+      <link>http://example.org/dir1/c/</link>
+      <pubDate>Thu, 10 Sep 2020 00:25:42 +0000</pubDate>
+      
+      <guid>http://example.org/dir1/c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B</title>
+      <link>http://example.org/dir1/b/</link>
+      <pubDate>Thu, 10 Sep 2020 00:15:00 +0000</pubDate>
+      
+      <guid>http://example.org/dir1/b/</guid>
+      <description>This is dir1/b.md</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,10 +6,28 @@
     <description>Recent content in Tags on HUGO | Giraffe Academy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Sep 2020 00:13:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2020 00:25:42 +0000</lastBuildDate>
     
 	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>tag3</title>
+      <link>http://example.org/tags/tag3/</link>
+      <pubDate>Thu, 10 Sep 2020 00:25:42 +0000</pubDate>
+      
+      <guid>http://example.org/tags/tag3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tag2</title>
+      <link>http://example.org/tags/tag2/</link>
+      <pubDate>Thu, 10 Sep 2020 00:15:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/tag2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>tag1</title>
@@ -17,24 +35,6 @@
       <pubDate>Thu, 10 Sep 2020 00:13:32 +0000</pubDate>
       
       <guid>http://example.org/tags/tag1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tag2</title>
-      <link>http://example.org/tags/tag2/</link>
-      <pubDate>Thu, 10 Sep 2020 00:13:32 +0000</pubDate>
-      
-      <guid>http://example.org/tags/tag2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tag3</title>
-      <link>http://example.org/tags/tag3/</link>
-      <pubDate>Thu, 10 Sep 2020 00:13:32 +0000</pubDate>
-      
-      <guid>http://example.org/tags/tag3/</guid>
       <description></description>
     </item>
     
