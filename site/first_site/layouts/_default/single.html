@@ -30,7 +30,7 @@ True
 False
 {{end}} -->
 
-{{ $var1 := "1" }}
+<!-- {{ $var1 := "1" }}
 {{ $var2 := "2" }}
 {{ $var3 := "3" }}
 
@@ -40,7 +40,13 @@ True
 False
 {{end}}
 
-{{end}} 
+{{end}} -->
+
+{{ range .Site.Data.states }}
+
+  {{.name}}<br>{{.capital}}<br>
+  Location : {{.lat}}, {{.long}}
+{{end}}
 
 {{ define "footer" }}
 This is the singl footer 
