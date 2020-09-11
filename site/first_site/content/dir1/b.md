@@ -8,3 +8,12 @@ color: "red"
 ---
 
 This is dir1/b.md
+
+<!-- {{< myshortcode color="blue" >}} -->
+<!-- {{< myshortcode >}}
+This is the text inside the shorcode tags
+{{< /myshortcode >}} -->
+{{% myshortcode %}}
+**boldtext**
+{{% /myshortcode %}}
+
