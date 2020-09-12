@@ -1,8 +1,12 @@
 # hugo_tutorial
 
-## References
+## Demo
 
 https://jovial-montalcini-a8e1a7.netlify.app/
+
+## References
+
+https://www.mikedane.com/static-site-generators/hugo/
 
 ## Theme
 
