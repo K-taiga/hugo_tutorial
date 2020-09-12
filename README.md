@@ -2,7 +2,7 @@
 
 ## References
 
-https://www.mikedane.com/static-site-generators/hugo/
+https://jovial-montalcini-a8e1a7.netlify.app/
 
 ## Theme
 
